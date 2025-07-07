@@ -17,3 +17,8 @@ theme:
         name: Light mode
       primary: blue
       accent: deep orange
+  plugins: 
+    - search
+    - blog:
+        blog_dir: .
+      

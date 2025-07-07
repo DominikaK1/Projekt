@@ -20,5 +20,5 @@ theme:
   plugins: 
     - search
     - blog:
-        blog_dir: .
+        blog_dir: ./posts
       
